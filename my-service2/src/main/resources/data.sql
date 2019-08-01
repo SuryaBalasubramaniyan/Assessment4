@@ -1,0 +1,1 @@
+insert into USER values('surya','123');
